@@ -1,0 +1,5 @@
+- 🔭 Atualmente estou trabalhando como Assessor de Gestão na Prefeitura de Guarulhos, focado em análise e criação de dashboards.
+- 🌱 Estou sempre aprendendo mais sobre Análise e Desenvolvimento de Sistemas, Python para análise de dados, e ferramentas de BI.
+- 🤔 Tenho interesse em projetos que envolvam visualização de dados, automação de processos e desenvolvimento web.
+- 💬 Pergunte-me sobre: Excel, Power BI (se você usa), desenvolvimento de relatórios, ou qualquer coisa relacionada aos meus projetos!
+- 📫 Como me encontrar: [breno.caldas2001@gmail.com](mailto:breno.caldas2001@gmail.com)
