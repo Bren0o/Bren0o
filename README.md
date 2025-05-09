@@ -29,7 +29,6 @@ TEXTO_SOBRE_CREME = '#333333'
       <p>
         - 🔭 Atualmente, atuo como <strong>Assessor de Gestão na Prefeitura de Guarulhos</strong>, onde sou responsável pela <strong>análise e criação de dashboards e relatórios</strong> para otimizar processos e embasar decisões.<br>
         - 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNICID.<br>
-        - 🌱 Estou sempre buscando expandir meus conhecimentos em tecnologias de análise de dados, desenvolvimento web e ferramentas de Business Intelligence.<br>
         - 💡 Tenho experiência prévia como Assistente de Controladoria e Aprendiz Administrativo, o que me proporcionou uma base sólida em processos financeiros e administrativos.<br>
         - 📫 Você pode me encontrar em: <strong>breno.caldas2001@gmail.com</strong>
       </p>
